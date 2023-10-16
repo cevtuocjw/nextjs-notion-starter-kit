@@ -2,36 +2,36 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'f6f85c1f4880434d868f7cd43bd08c33',
+  rootNotionPageId: '1fe6b5956db3460795aa462b4686e350',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'Lambd4',
+  rootNotionSpaceId: 'glitter-mole-321',
 
   // basic site info (required)åå
-  name: 'hm_dev',
-  domain: 'hmdev.vercel.app',
-  author: 'hanmil lee',
+  name: 'CEVTUOGRND LITE',
+  domain: 'lite.cevtuogrnd.com',
+  author: 'c_jw*',
 
   // open graph metadata (optional)
-  description: "Hanmil's Notion blog",
+  description: "c_jw*'s Notion PUBLIC COLLECTION",
   // socialImageTitle: 'HM_dev',
   // socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  // twitter: 'transitive_bs',
-  github: 'hanmilLee',
-  linkedin: 'hanmil-lee-828a57187',
-  instagram: '2hanmil',
+   twitter: 'jwaps110156',
+  //github: 'hanmilLee',
+  //linkedin: 'hanmil-lee-828a57187',
+  instagram: 'cevtuo',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon:'https://hmdev.vercel.app/page-icon.jpg',
-  defaultPageCover: null,
+  defaultPageIcon:'https://cevtuogrnd.com/wp-content/uploads/2021/07/cevuo-logo-small.png',
+  defaultPageCover: 'https://cevtuogrnd.com/wp-content/uploads/2023/10/未标题-2-6.png',
   defaultPageCoverPosition: 0.5,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'hanmilLee/nextjs-notion-starter-kit',
+ // utterancesGitHubRepo: 'hanmilLee/nextjs-notion-starter-kit',
  
   // Cusdis comment widget (optional)
   // cusdis: {
@@ -63,8 +63,12 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About me',
-      pageId: 'a32a59aec23c41e08452757e94d96418'
+      title: 'Other',
+      pageId: '8492007cf4dd492096a0324fc503512f'
+    },
+    {
+      title: 'Other2',
+      pageId: '5d880902b00742558b28e52ca8a0ea80'
     },
     // {
     //   title: 'About me',

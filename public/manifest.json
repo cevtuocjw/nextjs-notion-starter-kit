@@ -1,24 +1,24 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+  "name": "CEVTUOGRND LITE",
+  "short_name": "LITE_CEVTUOGRND",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/cevtuo192.png",
       "type": "image/png",
       "sizes": "32x32"
     },
     {
-      "src": "/4212916_education_note_notes_student_icon-2.png",
+      "src": "/cevtuo128.png",
       "type": "image/png",
       "sizes": "64x64"
     },
     {
-      "src": "/4212916_education_note_notes_student_icon-3.png",
+      "src": "/cevtuo192.png",
       "type": "image/png",
       "sizes": "128x128"
     },
     {
-      "src": "/4212916_education_note_notes_student_icon-4.png",
+      "src": "/cevtuo192.png",
       "sizes": "256x256",
       "type": "image/png"
     }
