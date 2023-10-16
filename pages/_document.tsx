@@ -22,19 +22,19 @@ export default class MyDocument extends Document {
             <link
               rel='apple-touch-icon'
               sizes='256x256'
-              href='/4212916_education_note_notes_student_icon-3.png'
+              href='/cevtuo192.png'
             />
             <link
               rel='icon'
               type='image/png'
               sizes='128x128'
-              href='/4212916_education_note_notes_student_icon-3.png'
+              href='/cevtuo192.png'
             />
             <link
               rel='icon'
               type='image/png'
               sizes='32x32'
-              href='favicon.png'
+              href='cevtuo128.png'
             />
 
             <link rel='manifest' href='/manifest.json' />
