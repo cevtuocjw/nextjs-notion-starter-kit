@@ -45,7 +45,7 @@ export const FooterImpl: React.FC = () => {
           <a href='https://cevtuogrnd.com'>
             
           </a>
-          <div>Copyright 2023 ©CEVTUOGRND </div>
+          <div>Copyright  ©CEVTUOGRND  2023</div>
         </div>
       </div>
 
