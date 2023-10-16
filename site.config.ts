@@ -63,11 +63,11 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Other',
+      title: 'CATEGORIESr',
       pageId: '8492007cf4dd492096a0324fc503512f'
     },
     {
-      title: 'Other2',
+      title: 'CONTACT',
       pageId: '5d880902b00742558b28e52ca8a0ea80'
     },
     // {
