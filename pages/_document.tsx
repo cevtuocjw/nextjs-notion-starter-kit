@@ -17,7 +17,7 @@ export default class MyDocument extends Document {
               name='naver-site-verification'
               content='a50a08504e695cb943751e7ba6409a62103efc5c'
             />
-            <link rel='shortcut icon' href='/favicon.png' />
+            <link rel='shortcut icon' href='/cevtuo192.png' />
 
             <link
               rel='apple-touch-icon'
