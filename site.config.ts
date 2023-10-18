@@ -68,7 +68,7 @@ export default siteConfig({
     },
     {
       title: 'CONTACT',
-      pageId: '5d880902b00742558b28e52ca8a0ea80'
+      url: 'https://cevtuogrnd.com/contact/'
     },
     // {
     //   title: 'About me',
