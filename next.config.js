@@ -8,7 +8,7 @@ module.exports = withBundleAnalyzer({
   images: {
     domains: [
       'www.notion.so',
-      'www.notion.so/image',
+      'www.notion.so/images',
       'www.notion.so/image',
       'notion.so',
       'images.unsplash.com',
