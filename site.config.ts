@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'c_jw*',
 
   // open graph metadata (optional)
-  description: "c_jw*'s Notion PUBLIC COLLECTION",
+  description: "c_jw*'s PUBLIC COLLECTION",
   // socialImageTitle: 'HM_dev',
   // socialImageSubtitle: 'Hello World! 👋',
 
@@ -63,13 +63,10 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'FUNCTIONZONE',
+      title: 'FNZONE',
       pageId: '8492007cf4dd492096a0324fc503512f'
     },
-    {
-      title: 'CONTACT',
-      url: 'https://cevtuogrnd.com/contact/'
-    },
+    
     // {
     //   title: 'About me',
     //   url: 'https://www.linkedin.com/in/hanmil-lee-828a57187/'
